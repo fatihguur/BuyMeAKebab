@@ -13,7 +13,7 @@ contract BuyMeAKebab {
         string message
     );
     
-    // Memo struct.
+    // Message Struct
     struct Memo {
         address from;
         uint256 timestamp;
@@ -28,22 +28,16 @@ contract BuyMeAKebab {
     Memo[] memos;
 
     constructor() {
-        
         owner = payable(msg.sender);
     }
 
-    /**
-     * @dev fetches all stored memos
-     */
+   
+    // Receive all stored memos   
     function getMemos() public view returns (Memo[] memory) {
         return memos;
     }
 
-    /**
-     * @dev buy a Kebab for owner (sends an ETH tip and leaves a memo)
-     * @param _name name of the Kebab purchaser
-     * @param _message a nice message from the purchaser
-     */
+    // Tips 0.001 ETH to Deployer's address with name and message
     function buyKebab(string memory _name, string memory _message) public payable {
         // Must accept more than 0 ETH for a Kebab.
         require(msg.value > 0, "can't buy Kebab for free!");
