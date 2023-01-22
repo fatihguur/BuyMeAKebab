@@ -1,4 +1,4 @@
-![BuyKebab]([http://url/to/img.png](https://www.hizliresim.com/n9juynr))
+![ScreenShot](https://{https://www.hizliresim.com/n9juynr})
 # BuyMeAKebab
 <table>
 <tr>
