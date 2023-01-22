@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   
-    <img src="https://prnt.sc/PDfqvApEvFHc" alt="Logo" width="80" height="80">
+    <img src="bmak.png" alt="Logo" width="80" height="80">
   
 
   <h3 align="center">Best-README-Template</h3>
