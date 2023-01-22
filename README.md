@@ -24,6 +24,7 @@ Sometimes it takes a few seconds to load..
 
 - Solidity
 - Hardhat
+- Ethers.js
 - Next.js
 
 
