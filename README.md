@@ -1,4 +1,5 @@
-![ScreenShot](https://{https://www.hizliresim.com/n9juynr})
+![buyme1](https://user-images.githubusercontent.com/32412899/213929352-aa904cff-b94b-45c0-a7e2-d5c96f397256.png)
+
 # BuyMeAKebab
 <table>
 <tr>
