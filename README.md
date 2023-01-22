@@ -1,4 +1,4 @@
-# ![BuyMeAKebab](https://i.hizliresim.com/cyjbt4h.png)
+# ![BuyMeAKebab](https://www.hizliresim.com/n9juynr)
 # BuyMeAKebab
 <table>
 <tr>
@@ -11,13 +11,11 @@
 
 ## Demo
 Here is a working live demo :  https://buymeakebab.fatihguur.repl.co/
-Sometimes it takes a couple of seconds too load.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
 
 
+![](https://www.hizliresim.com/g3udvaj)
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
+
 
 
 ## Built with 
