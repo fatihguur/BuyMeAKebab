@@ -5,7 +5,7 @@
 <table>
 <tr>
 
-  BuyMeAKebab food & web3 version of BuyMeACoffee.
+  BuyMeAKebab, food & web3 version of BuyMeACoffee. You can support the people you want with delicious kebabs. ^^
 
 </tr>
 </table>
