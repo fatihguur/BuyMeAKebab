@@ -13,8 +13,10 @@
 ## Demo
 Here is a working live demo :  https://buymeakebab.fatihguur.repl.co/
 
+![buyme2](https://user-images.githubusercontent.com/32412899/213929375-f23fa9fe-d10f-4c0a-b3fa-b0764c71b2c3.png)
 
-![hjgjfhjfgjfg](https://www.hizliresim.com/g3udvaj)
+
+
 
 
 
