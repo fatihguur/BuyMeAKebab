@@ -2,9 +2,9 @@
 # BuyMeAKebab
 <table>
 <tr>
-<td>
+
   BuyMeAKebab food & web3 version of BuyMeACoffee.
-</td>
+
 </tr>
 </table>
 
